@@ -1,6 +1,6 @@
 # Magic Portfolio
 
-~Currently under construction~
+Currently under construction<br />
 
 A nifty portfolio built following this tutorial&nbsp;&nbsp;<br />
 💚 [Personal Portfolio Website with Next.js, Three.js & Tailwind CSS Tutorial](https://youtu.be/T5t46vuW8fo)
