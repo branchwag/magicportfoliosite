@@ -118,6 +118,10 @@ export const BtnList = [
     icon: "resume",
     newTab: true,
   },
+  // {
+  //   label: "MiscLink",
+  //   link: "/resume.pdf",
+  //   icon: "glasses",
+  //   newTab: true,
+  // },
 ];
-
-

@@ -7,6 +7,7 @@ import {
   Phone,
   Twitter,
   User,
+  Glasses,
 } from "lucide-react";
 import Link from "next/link";
 import React from "react";
@@ -34,7 +35,7 @@ const getIcon = (icon) => {
       return <NotebookText className="w-full h-auto" strokeWidth={1.5} />;
 
     default:
-      return <Home className="w-full h-auto" strokeWidth={1.5} />;
+      return <Glasses className="w-full h-auto" strokeWidth={1.5} />;
   }
 };
 
