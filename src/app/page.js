@@ -4,6 +4,7 @@ import RenderModel from "@/components/RenderModel";
 import Wizard from "@/components/models/Wizard";
 import Navigation from "@/components/navigation";
 import Witch from "@/components/models/Witch";
+import Girl from "@/components/models/Girl";
 import magictome from "../../website images/magictome.png";
 
 export default function Home() {
@@ -27,8 +28,8 @@ export default function Home() {
           
         /> */}
         <RenderModel>
-          <Wizard />
-          {/* <Witch/> */}
+          {/* <Wizard /> */}
+          <Girl/>
         </RenderModel>
       </div>
     </main>
