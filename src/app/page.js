@@ -1,7 +1,7 @@
 import Image from "next/image";
 import bg from "../../public/background/home-background.png";
 import RenderModel from "@/components/RenderModel";
-import Witch from "@/components/models/Witch";
+import Wizard from "@/components/models/Wizard";
 import Navigation from "@/components/navigation";
 import magictome from "../../website images/magictome.png";
 
@@ -14,7 +14,7 @@ export default function Home() {
         fill
         className="-z-50 w-full h-full object-cover object-center opacity-50"
       />
-      
+
       <div className="w-full h-screen">
         {}
         <Navigation />
@@ -26,8 +26,8 @@ export default function Home() {
           
         /> */}
         <RenderModel>
-            <Witch />
-          </RenderModel>
+          <Wizard />
+        </RenderModel>
       </div>
     </main>
   );
