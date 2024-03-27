@@ -10,7 +10,8 @@ A nifty portfolio built following this tutorial&nbsp;&nbsp;<br />
 
 #### 3D Models
 
-- ["Tim Mckee - Boy Wizard"](https://skfb.ly/6YATu) by [elbertwithane is licensed under Creative Commons Attribution ](http://creativecommons.org/licenses/by/4.0/).
+- ["Matilda"](https://skfb.ly/6zGMG) by [nicolekeane is licensed under CC Attribution-NonCommercial-ShareAlike ](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+- ["Witch Apprentice"](https://skfb.ly/onUYJ) by [Sharon Kunne is licensed under Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
 - ["Stylized wizard hat"](https://skfb.ly/ozxOQ) by [Enkarra is licensed under Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
 - ["Wizard Staff"](https://skfb.ly/6QYZw) by [Toymancer Studio is licensed under Creative Commons Attribution](http://creativecommons.org/licenses/by/4.0/).
 
