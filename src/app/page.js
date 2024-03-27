@@ -29,7 +29,8 @@ export default function Home() {
         /> */}
         <RenderModel>
           {/* <Wizard /> */}
-          <Girl/>
+          {/* <Girl/> */}
+          <Witch/>
         </RenderModel>
       </div>
     </main>
