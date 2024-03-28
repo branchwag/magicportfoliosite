@@ -14,7 +14,9 @@ export default function Projects() {
         fill
         className="-z-50 w-full h-full object-cover object-center opacity-50"
       />
-      <ProjectList projects={projectsData} />
+      <div className="mt-6 mb-6">
+        <ProjectList projects={projectsData} />
+      </div>
 
       <div className="flex items-center justify-center fixed  top-16  lg:top-20 -translate-x-1/2 lg:translate-x-20 -z-10 left-1/2 lg:-left-20 h-screen">
         <RenderModel>
