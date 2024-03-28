@@ -64,7 +64,7 @@ export const projectsData = [
     name: "Coding Quiz",
     description: "A retro-style coding quiz built in JS",
     date: "2023-05-23",
-    demoLink: "https://github.com/branchwag/weather-dashboard",
+    demoLink: "https://github.com/branchwag/code-quiz-webpage",
   },
   {
     id: 8,
