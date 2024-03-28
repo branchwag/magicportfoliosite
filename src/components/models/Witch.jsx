@@ -13,8 +13,7 @@ export function Witch(props) {
   const { nodes, materials } = useGLTF("/models/scene-transformed.glb");
   const modelRef = useRef();
   useFrame((state) => {
-    modelRef.current.position.y =
-      0.3 + Math.sin(state.clock.elapsedTime) * 0.15;
+    modelRef.current.position.y = 0.3 + Math.sin(state.clock.elapsedTime) * 0.1;
   });
   return (
     <group
