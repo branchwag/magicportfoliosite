@@ -1,11 +1,8 @@
 import Image from "next/image";
 import bg from "../../public/background/home-background.png";
 import RenderModel from "@/components/RenderModel";
-import Wizard from "@/components/models/Wizard";
 import Navigation from "@/components/navigation";
 import Witch from "@/components/models/Witch";
-import Girl from "@/components/models/Girl";
-import magictome from "../../website images/magictome.png";
 
 export default function Home() {
   return (
@@ -20,17 +17,8 @@ export default function Home() {
       <div className="w-full h-screen">
         {}
         <Navigation />
-        {/* <Image
-          src={magictome}
-          width={500}
-          height={500}
-          alt="Picture of a magical book"
-          
-        /> */}
         <RenderModel>
-          {/* <Wizard /> */}
-          {/* <Girl/> */}
-          <Witch/>
+          <Witch />
         </RenderModel>
       </div>
     </main>
