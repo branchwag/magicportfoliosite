@@ -83,7 +83,7 @@ export const projectsData = [
   {
     id: 10,
     name: "CSVtoJSON",
-    description: "A CSV to JSOn converter",
+    description: "A CSV to JSON converter",
     date: "2024-02-16",
     demoLink: "https://github.com/branchwag/cppcsvtojson",
   },
@@ -114,7 +114,7 @@ export const BtnList = [
   },
   {
     label: "Resume",
-    link: "/resume.pdf",
+    link: "https://docs.google.com/document/d/e/2PACX-1vQ-lZZm6h7w_7TH5X7bSFTBjmtvACCSK-W1wjHKNEeMHnxDAWzS-3w1pwisvPTGLg/pub",
     icon: "resume",
     newTab: true,
   },
