@@ -1,10 +1,17 @@
 # Magic Portfolio
 
-Currently under construction<br />
-
-A nifty portfolio built following this tutorial&nbsp;&nbsp;<br />
+A nifty portfolio built following this tutorial:&nbsp;&nbsp;<br />
 💚 [Personal Portfolio Website with Next.js, Three.js & Tailwind CSS Tutorial](https://youtu.be/T5t46vuW8fo)
 [![YouTube Video Views](https://img.shields.io/youtube/views/T5t46vuW8fo)](https://youtu.be/T5t46vuW8fo) <br />
+
+## Project Screenshots
+
+Home Page:</br></br>
+<img src="./screenshots/magicwebsitehome.gif" alt="the home page" width="500"/> </br></br>
+Projects Page:</br></br>
+<img src="./screenshots/magicwebsiteprojects.gif" alt="the project page" width="500"/></br></br>
+About Page:</br></br>
+<img src="./screenshots/magicwebsiteabout.gif" alt="the project page" width="500"/></br></br>
 
 ## Resources Used in This Project
 
