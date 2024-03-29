@@ -16,7 +16,7 @@ const AboutDetails = () => {
           </h2>
           <p className="font-light  text-xs sm:text-sm md:text-base   ">
             I am a NYC-based FIX integration engineer and coding enthusiast,
-            building all sorts of apps in a variety of languages. I enjoy biking
+            building all sorts of fun apps in a variety of languages. I enjoy biking
             around this wonderful city and sipping iced matcha lattes
             (preferably not at the same time!). I also serve as lead sorceress
             (aka Dungeon Master) for a long-running D&D campaign. Feel free to
